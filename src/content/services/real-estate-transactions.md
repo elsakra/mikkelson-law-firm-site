@@ -1,0 +1,11 @@
+---
+title: "Real Estate Transactions"
+shortDescription: "Purchasing a home is one of the biggest investments a person can make."
+image: "https://images.unsplash.com/photo-1758518731462-d091b0b4ed0d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjA3fDB8MXxzZWFyY2h8Mnx8bGVnYWwlMjBjb25zdWx0YXRpb24lMjBtZWV0aW5nfGVufDB8MHx8fDE3NjkwMzA4NTR8MA&ixlib=rb-4.1.0&q=80&w=1080"
+
+
+
+order: 2
+---
+
+Mikkelson Law Firm, LLC has the experience and knowledge to streamline and expedite all aspects of purchasing and selling real estate.
