@@ -2,33 +2,33 @@
   "company": {
     "name": "Mikkelson Law Firm, LLC",
     "tagline": "Real Estate Closings, Estate Planning and Probate Attorneys in Bluffton, South Carolina",
-    "description": "Mikkelson Law Firm, LLC is in the heart of Bluffton, South Carolina near the corner of May River and Bluffton Road. We offer our clients law services in Real Estate Closings, Family Law, and Life Planning. Our competent and compassionate attorneys and paralegals help guide clients through life's trials with expertise and compassion.",
-    "phone": "(843) 757-9330",
-    "email": "admin@blufftonlawfirm.com",
+    "description": "Mikkelson Law Firm, LLC is in the heart of Bluffton, South Carolina near the corner of May River and Bluffton Road. We offer our clients law services in Real Estate Closings, Family Law, and Life Planning. Our competent and compassionate attorneys and paralegals help guide clients through life's trials with expertise and compassion. Our mission is to get to know our clients personally and assist them through the process.",
+    "phone": "843-757-9330",
+    "email": "Mollie@blufftonlawfirm.com",
     "address": "214 Bluffton Road, Bluffton SC 29910",
     "hours": "Monday through Friday, 9 am – 5 pm"
   },
   "branding": {
-    "logo": "https://res.cloudinary.com/dil14r8je/image/upload/v1769091014/auto-site-builder/Mikkelson%20Law%20Firm/image_0.png",
+    "logo": "https://res.cloudinary.com/dil14r8je/image/upload/v1769093564/auto-site-builder/Mikkelson%20Law%20Firm/image_0.png",
     "primaryColor": "#1e3a5f",
     "secondaryColor": null
   },
   "hero": {
     "headline": "Your Bluffton, SC Attorneys",
-    "subheadline": "Mikkelson Law Firm, LLC is in the heart of Bluffton, South Carolina. We offer our clients law services in Real Estate Closings, Family Law, and Life Planning with expertise and compassion.",
+    "subheadline": "Mikkelson Law Firm, LLC offers law services in Real Estate Closings, Family Law, and Life Planning with expertise and compassion.",
     "cta": {
       "label": "Contact Us",
       "href": "/contact"
     },
     "secondaryCta": null,
-    "backgroundImage": "https://images.unsplash.com/photo-1521791136064-7986c2920216?w=1920&h=1080&fit=crop&q=80",
-    "imageOpacity": 35
+    "backgroundImage": "https://res.cloudinary.com/dil14r8je/image/upload/v1769036221/auto-site-builder/Mikkelson%20Law%20Firm/image_7.jpg",
+    "imageOpacity": 60
   },
   "sections": {
     "about": {
       "headline": "Why Choose Mikkelson Law Firm?",
-      "content": "Our firm has experienced attorneys with over 30 years of practicing law. Our clients receive timely and personal assistance from our staff of paralegal and attorneys. We provide friendly, informative client-centered care. Our goal is to enhance the overall client experience with Mikkelson Law Firm, maintaining an approachable and non-intimidating relationship with our clients. Our staff consists of devoted members of the community who are actively supportive of local clubs, arts, organizations, schools, and charities and who desire to personally know our clients and local community.",
-      "image": "https://plus.unsplash.com/premium_photo-1743020414456-aaaa3aebf10f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjA3fDB8MXxzZWFyY2h8MXx8YXR0b3JuZXklMjBvZmZpY2UlMjBtb2Rlcm58ZW58MHwwfHx8MTc2OTA4NDMxNHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "content": "Mikkelson Law Firm, LLC was formed in 2014 out of a desire to service our community, get to know our clients, and help them navigate through life's trials. Our firm has experienced attorneys with over 30 years of practicing law. We provide friendly, informative client-centered care with the goal to enhance the overall client experience, maintaining an approachable and non-intimidating relationship with our clients. Our staff consists of devoted members of the community who are actively supportive of local clubs, arts, organizations, schools, and charities.",
+      "image": "https://res.cloudinary.com/dil14r8je/image/upload/v1769036221/auto-site-builder/Mikkelson%20Law%20Firm/image_1.jpg",
       "values": [
         {
           "title": "30+ Years Experience",
@@ -36,11 +36,11 @@
         },
         {
           "title": "Personal Service",
-          "description": "Our clients receive timely and personal assistance from our staff"
+          "description": "Our clients receive timely and personal assistance from our staff of paralegals and attorneys"
         },
         {
           "title": "Community Focused",
-          "description": "Devoted members of the community actively supporting local organizations"
+          "description": "Our staff consists of devoted members of the community who desire to personally know our clients"
         }
       ]
     },
@@ -48,7 +48,7 @@
       "headline": "Our Practice Areas"
     },
     "team": {
-      "headline": "Meet Our Team"
+      "headline": "Our Attorneys"
     },
     "testimonials": {
       "headline": "What Our Clients Say"
@@ -69,7 +69,7 @@
       }
     ],
     "ctaButton": {
-      "label": "Call (843) 757-9330",
+      "label": "Call 843-757-9330",
       "href": "/about"
     }
   },
