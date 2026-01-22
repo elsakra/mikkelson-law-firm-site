@@ -2,31 +2,31 @@
   "company": {
     "name": "Mikkelson Law Firm, LLC",
     "tagline": "Real Estate Closings, Estate Planning and Probate Attorneys in Bluffton, South Carolina",
-    "description": "Mikkelson Law Firm, LLC is in the heart of Bluffton, South Carolina near the corner of May River and Bluffton Road. We offer our clients law services in Real Estate Closings, Family Law, and Life Planning. Our competent and compassionate attorneys and paralegals help guide clients through life's trials with expertise and compassion. Our mission is to get to know our clients personally and assist them through the process.",
+    "description": "Mikkelson Law Firm, LLC is in the heart of Bluffton, South Carolina near the corner of May River and Bluffton Road. We offer our clients law services in Real Estate Closings, Family Law, and Life Planning. Our competent and compassionate attorneys and paralegals help guide clients through life's trials with expertise and compassion.",
     "phone": "(843) 757-9330",
     "email": "Mollie@blufftonlawfirm.com",
     "address": "214 Bluffton Road, Bluffton SC 29910",
     "hours": "Monday through Friday, 9 am – 5 pm"
   },
   "branding": {
-    "logo": "https://res.cloudinary.com/dil14r8je/image/upload/v1769086912/auto-site-builder/Mikkelson%20Law%20Firm/image_0.png",
+    "logo": "https://res.cloudinary.com/dil14r8je/image/upload/v1769087628/auto-site-builder/Mikkelson%20Law%20Firm/image_0.png",
     "primaryColor": "#1e3a5f",
     "secondaryColor": null
   },
   "hero": {
     "headline": "Your Bluffton, SC Attorneys",
-    "subheadline": "Mikkelson Law Firm, LLC offers law services in Real Estate Closings, Family Law, and Life Planning with expertise and compassion.",
+    "subheadline": "Our competent and compassionate attorneys and paralegals help guide clients through life's trials with expertise and compassion.",
     "cta": {
       "label": "Contact Us",
       "href": "/contact"
     },
     "secondaryCta": null,
-    "backgroundImage": "https://images.unsplash.com/photo-1521791136064-7986c2920216?w=1920&h=1080&fit=crop&q=80"
+    "backgroundImage": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=1920&h=1080&fit=crop&q=80"
   },
   "sections": {
     "about": {
       "headline": "Why Choose Mikkelson Law Firm?",
-      "content": "Mikkelson Law Firm, LLC was formed in 2014 out of a desire to service our community, get to know our clients, and help them navigate through life's trials. Our firm has experienced attorneys with over 30 years of practicing law. We provide friendly, informative client-centered care with the goal to enhance the overall client experience, maintaining an approachable and non-intimidating relationship with our clients. Our staff consists of devoted members of the community who are actively supportive of local clubs, arts, organizations, schools, and charities.",
+      "content": "Mikkelson Law Firm, LLC was formed in 2014 out of a desire to service our community, get to know our clients, and help them navigate through life's trials. Our firm has experienced attorneys with over 30 years of practicing law. We provide friendly, informative client-centered care with our goal to enhance the overall client experience, maintaining an approachable and non-intimidating relationship with our clients. Our staff consists of devoted members of the community who are actively supportive of local clubs, arts, organizations, schools, and charities.",
       "image": "https://plus.unsplash.com/premium_photo-1674727219372-4ba6644106bc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjA3fDB8MXxzZWFyY2h8MXx8bGF3JTIwbGlicmFyeSUyMGJvb2tzfGVufDB8MHx8fDE3Njg5Njc2NzZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
       "values": [
         {
